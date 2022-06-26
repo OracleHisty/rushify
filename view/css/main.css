@@ -316,6 +316,10 @@ textarea.input{
     padding: 0px 5px 0px 5px;
 }
 
+.rarity-whitename{
+    color:white !important
+}
+
 .rarity-rush{
     color: #e5e619 !important;
 }
